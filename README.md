@@ -1,4 +1,4 @@
-### Hi there :wave:
+# Hi there :wave:
 
 - :telescope: I’m currently working on *graduating college*. I am a senior at Montana State University, working on my bachelor's degree in Computer Science.
 - :seedling: I’m currently learning Shell Script, Markdown, Git-Bucket, and some Javascript packages ([AngularJS](https://angularjs.org/), [FullCalendar](https://fullcalendar.io/), [Quill](https://quilljs.com/)).

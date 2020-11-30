@@ -7,4 +7,3 @@
 - :mag_right: I’m looking to help with anything Web-App related, that's where my specialty lies. But I am open to other types of projects. 
 - :speech_balloon: Ask me about... anything you'd like!
 <!-- - :mailbox: How to reach me: -->
-
